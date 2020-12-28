@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578950605203",
+    "project_id": "loja-virtualpacto",
+    "storage_bucket": "loja-virtualpacto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578950605203:android:c453a7d2e8b389c181a066",
+        "android_client_info": {
+          "package_name": "com.example.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578950605203-kelo0hcsm7nkmdmi1sr7fob9k0ibtb10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ukSoFGdbG9mFzN-zyttMWw0b76ehZZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578950605203-kelo0hcsm7nkmdmi1sr7fob9k0ibtb10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
